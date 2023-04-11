@@ -1,0 +1,15 @@
+:root{--branco-principal:#ffffff;
+    --cinza-secundario:#c0c0c0;
+    --botao-azul:#167b7f;
+    --cor-de-fundo:#00030c;}
+    body{background-color:var(--cor-fundo);color:var(--branco-principal);}
+    .principal{background-image:usl(link da imagem);
+        background-repeat:no-repeat;
+        background-size:contain;
+        background-position:top right;}
+        .conteiner{height:100vg;}
+.conteiner__botão{background-color:var(--botão-azul);
+    border-radius:5px;
+    padding: 1 em;
+    color:var (--branco-principal);
+    display:block;}
